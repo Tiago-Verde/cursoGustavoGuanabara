@@ -21,7 +21,7 @@ public class Main {
         p2.setDono("Maria");
         p2.abrirConta("CP");
         p2.depositar(500);
-        p2.sacar(300);
+        p2.sacar(200);
         p2.retornaStatus();
 
     }
