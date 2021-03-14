@@ -88,12 +88,12 @@ public class Luta {
                 case 1:
                     this.desafiante.ganharLuta();
                     this.desafiado.perderLuta();
-                    System.out.println("O lutador " + this.desafiante + " foi o vencedor");
+                    System.out.println("O lutador " + this.desafiante.getNome() + " foi o vencedor");
                     break;
                 case 2:
                     this.desafiante.perderLuta();
                     this.desafiado.ganharLuta();
-                    System.out.println("O vencedor foi " +this.desafiado);
+                    System.out.println("O vencedor foi " +this.desafiado.getNome());
                     break;
             }
         }else{
