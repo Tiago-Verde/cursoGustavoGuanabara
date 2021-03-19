@@ -1,4 +1,4 @@
-package com.aula06;
+package comOrientacaoObjeto.aula06;
 
 public interface Controlador {
     public abstract void ligar();

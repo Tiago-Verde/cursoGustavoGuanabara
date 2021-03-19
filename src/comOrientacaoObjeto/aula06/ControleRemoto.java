@@ -1,4 +1,4 @@
-package com.aula06;
+package comOrientacaoObjeto.aula06;
 
 public class ControleRemoto implements Controlador{
     private int volume;

@@ -1,4 +1,4 @@
-package com.Aula7;
+package comOrientacaoObjeto.Aula7;
 
 import java.util.Random;
 

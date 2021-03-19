@@ -1,4 +1,4 @@
-package com.aulaOrientacaoObjeto;
+package comOrientacaoObjeto.aulaOrientacaoObjeto;
 
 public class ContaBanco {
     public int numConta;
